@@ -1,2 +1,5 @@
 1. Decide with business to order from
 2. Decide which type of pizza to order
+3. Call pizza business to order a pizza
+4. Pay for the pizza over the phone
+5. Pick up the pizza when ready
